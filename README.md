@@ -1,2 +1,2 @@
 # trytry
-# Contains Perl examples
+# Perl basic programs
